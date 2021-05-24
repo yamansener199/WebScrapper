@@ -13,7 +13,9 @@ URL of the report :https://docs.google.com/spreadsheets/d/1vY6aAdGZ5wOF8peHqiS-q
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Question Answers](#paragraph1)  
+* [Challenges](#paragraph1)  
+* [What I Learned](#paragraph2)
+* [Question Answers](#paragraph3)  
 
 ## General info
 This project is simple Lorem ipsum dolor generator.
@@ -42,5 +44,15 @@ $ pip install requests
 $ pip install python-time
 $ python3 main.py //run command can change depending on the Os 
 ```
-## Question Answers <a name="paragraph1"/>
-answersasdf
+## Challenges <a name="paragraph1"/>
+
+## What I Learned <a name="paragraph2"/>
+
+## Question Answers <a name="paragraph3"/>
+1. If I’d have 10.000 urls that I should visit, then it takes hours to finish.
+What can we make to fasten this process?
+Answer:
+2. What can we make or use to automate this process to run once a
+day?Write your recommendations.
+Answer:
+3. Please briefly explain what an API is and how it works.
